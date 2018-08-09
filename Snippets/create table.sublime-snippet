@@ -2,7 +2,7 @@
     <content>table ${1:name} {
     			"${2:key}": "${3:value}",
     			"${4:key}": "${5:value}"
-    	}</content>
+    		 }</content>
     <tabTrigger>table</tabTrigger>
     <scope>source.varnish.vcl</scope>
 </snippet>
