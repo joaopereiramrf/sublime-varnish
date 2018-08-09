@@ -344,7 +344,7 @@
         </dict>
         <dict>
           <key>match</key>
-          <string>std\.(log|toupper|tolower|set_ip_tos|random|log|syslog|fileread|collect|duration|integer|ip)</string>
+          <string>std\.(atoi|log|toupper|tolower|set_ip_tos|random|log|syslog|fileread|collect|duration|integer|ip)</string>
           <key>name</key>
           <string>support.function.module.std.vcl</string>
         </dict>
